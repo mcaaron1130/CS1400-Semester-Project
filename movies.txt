@@ -49,4 +49,4 @@ Zootopia
 Alice in Wonderland
 Harry Potter and the Sorcerer's Stone
 
-// data courtesy of https://www.kaggle.com/datasets
+// data courtesy of https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies/data
