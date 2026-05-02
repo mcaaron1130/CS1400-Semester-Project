@@ -1,0 +1,52 @@
+A Tale of Two Cities
+The Little Prince (Le Petit Prince)
+Harry Potter and the Philosopher's Stone
+And Then There Were None
+Dream of the Red Chamber (紅樓夢)
+The Hobbit
+She: A History of Adventure
+The Da Vinci Code
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Goblet of Fire
+Harry Potter and the Order of the Phoenix
+Harry Potter and the Half-Blood Prince
+Harry Potter and the Deathly Hallows
+The Alchemist (O Alquimista)
+The Catcher in the Rye
+The Bridges of Madison County
+One Hundred Years of Solitude (Cien años de soledad)
+Lolita
+Heidi
+The Common Sense Book of Baby and Child Care
+Anne of Green Gables
+Black Beauty
+The Name of the Rose (Il Nome della Rosa)
+The Eagle Has Landed
+Watership Down
+The Hite Report
+Charlotte's Web
+The Ginger Man
+The Tale of Peter Rabbit
+Jonathan Livingston Seagull
+The Very Hungry Caterpillar
+A Message to Garcia
+To Kill a Mockingbird
+Flowers in the Attic
+Cosmos
+Sophie's World (Sofies verden)
+Angels & Demons
+Alcholics Anonymous
+Kane and Abel
+How the Steel Was Tempered (Как закалялась сталь)
+War and Peace (Война и мир)
+The Adventures of Pinocchio (Le avventure di Pinocchio)
+The Diary of Anne Frank (Het Achterhuis)
+Your Erroneous Zones
+The Thorn Birds
+The Kite Runner
+Valley of the Dolls
+How to Win Friends and Influence People
+The Great Gatsby
+
+// data courtesy of https://www.kaggle.com/datasets/agarwalyashhh/best-selling-books
